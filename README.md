@@ -45,7 +45,7 @@ https://deepak-0616.github.io/portfolio/
   https://github.com/Deepak-0616/todo_flutter_app/releases/download/v1.0.0/app-release.apk  
 
 - Crunchyroll-Style Frontend Clone  
-  https://deepak-0616.github.io/campus_facility_finder/  
+  https://deepak-0616.github.io/Crunchyclone/
 
 ---
 
