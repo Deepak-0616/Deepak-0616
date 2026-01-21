@@ -87,7 +87,7 @@ https://deepak-0616.github.io/Crunchyclone/
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Deepak-0616/profile-3d-contrib/main/profile-night-rainbow.svg" 
+    src="https://streak-stats.demolab.com?user=Deepak-0616&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
   />
 </div>
 
