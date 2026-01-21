@@ -85,8 +85,9 @@ https://deepak-0616.github.io/Crunchyclone/
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-0616&theme=tokyo-night&hide_border=true"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
+
 
 ---
 
