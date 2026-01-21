@@ -76,6 +76,25 @@ https://deepak-0616.github.io/Crunchyclone/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
+<img src="https://streak-stats.demolab.com?user=Deepak-0616&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Deepak-0616/Deepak-0616/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Deepak-0616/Deepak-0616/output/github-contribution-grid-snake.svg" />
+    <img 
+      alt="GitHub Contribution Snake Animation" 
+      src="https://raw.githubusercontent.com/Deepak-0616/Deepak-0616/output/github-contribution-grid-snake.svg" 
+    />
+  </picture>
 </div>
 
 ---
