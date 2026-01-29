@@ -69,11 +69,11 @@ https://deepak-0616.github.io/Crunchyclone/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Deepak-0616&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Deepak-0616&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </div>
 
