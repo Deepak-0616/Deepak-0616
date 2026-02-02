@@ -68,8 +68,10 @@ https://deepak-0616.github.io/Crunchyclone/
 ## 📊 GitHub Stats
 
 <div align="center"> 
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Deepak-0616&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
