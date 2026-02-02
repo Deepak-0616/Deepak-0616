@@ -109,8 +109,6 @@ https://deepak-0616.github.io/Crunchyclone/
   ![Followers](https://img.shields.io/github/followers/Deepak-0616?style=for-the-badge)
   ![Stars](https://img.shields.io/github/stars/Deepak-0616?style=for-the-badge)
   ![Profile Views](https://komarev.com/ghpvc/?username=Deepak-0616&style=for-the-badge)
-  ![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
-  ![Profile Status](https://img.shields.io/badge/Profile-Active-informational?style=for-the-badge)
 
 ---
 
