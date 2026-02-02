@@ -75,14 +75,6 @@ https://deepak-0616.github.io/Crunchyclone/
 
 <img src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true" />
 
-<br/>
-
-![Followers](https://img.shields.io/github/followers/Deepak-0616?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Deepak-0616?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Deepak-0616&style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
-![Profile Status](https://img.shields.io/badge/Profile-Active-informational?style=for-the-badge)
-
 </div>
 
 ---
@@ -112,7 +104,13 @@ https://deepak-0616.github.io/Crunchyclone/
   <a href="https://linkedin.com/in/deepak-sabarirajan-m-487a38362">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  <br>
+  
+  ![Followers](https://img.shields.io/github/followers/Deepak-0616?style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/Deepak-0616?style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Deepak-0616&style=for-the-badge)
+  ![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
+  ![Profile Status](https://img.shields.io/badge/Profile-Active-informational?style=for-the-badge)
 
 ---
 
