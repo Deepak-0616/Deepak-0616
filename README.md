@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Deepak Sabarirajan**
+#  Hi, I'm **Deepak Sabarirajan**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 MERN-Stack Web Developer (Learning & Building)
-- 🤖 AI Explorer with interest in real-world applications
-- 🎨 Focused on clean, responsive, and user-centered UI
-- 🧩 Strong interest in problem solving and UI consistency
+-  MERN-Stack Web Developer (Learning & Building)
+-  AI Explorer with interest in real-world applications
+-  Focused on clean, responsive, and user-centered UI
+-  Strong interest in problem solving and UI consistency
 
 ---
 
-## 🧠 Currently Working On
+##  Currently Working On
 
 - Learning **MERN Stack Development**
 - Improving **frontend architecture & responsiveness**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**  
 - HTML5  
@@ -42,14 +42,14 @@
 
 ---
 
-## 🌐 Personal Portfolio
+##  Personal Portfolio
 
 🔗 **Portfolio Website**  
 https://deepak-0616.github.io/portfolio/
 
 ---
 
-## 📂 Projects
+##  Projects
 
 🔹 **Campus Facility Finder**  
 https://deepak-0616.github.io/campus_facility_finder    
@@ -64,7 +64,7 @@ https://github.com/Deepak-0616/todo_flutter_app/releases/download/v1.0.0/app-rel
 https://deepak-0616.github.io/Crunchyclone/
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -75,7 +75,7 @@ https://deepak-0616.github.io/Crunchyclone/
 </div>
 
 ---
-## 🐍 Contribution stats
+##  Contribution stats
 
 <div align="center">
  <picture>
@@ -93,7 +93,7 @@ https://deepak-0616.github.io/Crunchyclone/
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/Deepak-0616">
@@ -108,7 +108,7 @@ https://deepak-0616.github.io/Crunchyclone/
 
 <div align="center">
 
-✨ *Thank you for visiting my profile* ✨  
+ *Thank you for visiting my profile*   
 **Learning today. Building tomorrow.**
 
 </div>
