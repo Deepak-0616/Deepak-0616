@@ -28,17 +28,30 @@
 ##  Tech Stack
 
 **Frontend**  
-- HTML5  
-- CSS3  
-- JavaScript  
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vite
+  
+**Backend**
+- Node.js
+- Express.js
+- Python (FastAPI)
 
 **Mobile UI**  
 - Flutter (UI Development)
 
+**Database & Authentication**
+- PostgreSQL
+- Supabase
+- Google OAuth Authentication
+
 **Tools & Platforms**  
 - Git  
 - GitHub  
-- Visual Studio Code  
+- Visual Studio Code
+- Docker
 
 ---
 
